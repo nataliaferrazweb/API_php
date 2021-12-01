@@ -1,0 +1,5 @@
+
+composer.lock
+tests/BaseTestCase.php
+tests/HelloTest.php
+vendor/*
